@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Transactions on Blockchain',
-    Svg: require('@site/static/img/transactional-blockchain.svg').default,
+    Svg: require('@site/static/img/transaction-blockchain.svg').default,
     description: (
       <>
         Examine the flow of transactions on the blockchain.

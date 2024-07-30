@@ -11,6 +11,10 @@ const config = {
   title: 'Blockchain Learning',
   tagline: 'Wallets are Helpful',
   favicon: '/img/favicon-32x32.png',
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -69,7 +73,7 @@ const config = {
         title: 'Blockchain Learning',
         logo: {
           alt: 'Blockchain',
-          src: 'img/transactional-blockchain.svg',
+          src: 'img/transaction-blockchain.svg',
         },
         items: [
           {
@@ -112,7 +116,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Blockchain Learning Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
