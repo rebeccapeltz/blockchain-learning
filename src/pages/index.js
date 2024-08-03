@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Blockchain Intro Tutorial - 10min ⏱️
+            Blockchain Intro Tutorial - 20min ⏱️
           </Link>
         </div>
       </div>

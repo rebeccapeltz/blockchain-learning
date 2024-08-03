@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Tutorial Introduction
 
-**We'll get to know Blockchain discover in less than 10 minutes!**   
+**Get to know how to work with the blockchain using a wallet in less than 20 minutes!**   
 
 * Introduction to blockchain technology
 * Recognize blockchain features
 * Create and use a blockchain wallet
-* Transfer test coins into the wallet
+* Transfer test tokens into the wallet
 
 

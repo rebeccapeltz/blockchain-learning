@@ -35,3 +35,7 @@
   background-size: cover;
 }
 
+figcaption{
+  font-size:smaller;
+  color: gray;
+}
