@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rebeccapeltz.github.io/blockchain-learning/blog</id>
+    <title>Blockchain Learning Blog</title>
+    <updated>2024-07-28T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://rebeccapeltz.github.io/blockchain-learning/blog"/>
+    <subtitle>Blockchain Learning Blog</subtitle>
+    <icon>https://rebeccapeltz.github.io/blockchain-learning/img/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://rebeccapeltz.github.io/blockchain-learning/blog/welcome</id>
+        <link href="https://rebeccapeltz.github.io/blockchain-learning/blog/welcome"/>
+        <updated>2024-07-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This web site provides content to help learn what the blockchain is and how to interact with it.]]></summary>
+        <content type="html"><![CDATA[<p>This web site provides content to help learn what the blockchain is and how to interact with it.</p>]]></content>
+        <author>
+            <name>Rebecca Peltz</name>
+            <uri>https://github.com/rebeccapeltz</uri>
+        </author>
+        <category label="Facebook" term="Facebook"/>
+    </entry>
+</feed>
