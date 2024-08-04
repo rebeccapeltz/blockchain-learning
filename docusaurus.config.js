@@ -21,7 +21,8 @@ const config = {
   url: "https://rebeccapeltz.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/blockchain-learning",
+  baseUrl: "/blockchain-learning/",
+
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
