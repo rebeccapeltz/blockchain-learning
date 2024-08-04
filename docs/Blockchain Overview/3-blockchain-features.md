@@ -2,7 +2,7 @@
 
 Blockchain technology is used in the implementation of cyrptocurrencies.  As of this writing :
 
- * There are  [10,037 coins](https://www.statista.com/statistics/863917/number-crypto-coins-tokens/)
+ * There are [10,037 coins](https://www.statista.com/statistics/863917/number-crypto-coins-tokens/)
  * The [250 exchanges](https://coinmarketcap.com/rankings/exchanges/) ranked on traffic, liquidity, trading volumes and confidence in reporting traded between $0 and $13 billion over the last 24 hours 
  
 The features described here are those that are common to all blockchains.
