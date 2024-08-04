@@ -28,20 +28,20 @@ Click on the link in the upper right corner to connect your wallet. You will see
 
 You should have a choice of two faucets. Select the faucet that drips **0.1 ETH**. Click continue to begin the transfer.
 
-<div style={{border:"2px solid black", width:"500px", margin: "0 auto"}}>
+<div className="lg-img" style={{border:"2px solid black", margin: "0 auto"}}>
 ![Transfer tokens](/img/docs/training/faucet-select-after-connect.png)
 </div>
-<div style={{ width:"500px", margin: "0 auto"}}>
+<div className="lg-img" style={{  margin: "0 auto"}}>
 <figcaption>Transfer tokens</figcaption> 
 </div>
 <br/>
 
 Once the transfer is complete you'll see a notice of success. You'll also get a transaction hash. When the transfer is complete, you'll get a transaction hash. You can copy it into your clipboard and use it to look up the transaction online.
 
-<div style={{border:"2px solid black", width:"500px", margin: "0 auto"}}>
+<div className="lg-img" style={{border:"2px solid black", margin: "0 auto"}}>
 ![Transfer success](/img/docs/training/faucet-finish.png)
 </div>
-<div style={{ width:"500px", margin: "0 auto"}}>
+<div className="lg-img" style={{ margin: "0 auto"}}>
 <figcaption>Transfer success</figcaption> 
 </div>
 <br/>
@@ -74,10 +74,10 @@ If you click on the three dots in the upper right corner of the wallet, you can 
 
 Once on the Sepolia Linea scan, search for the address (public key) of the account.
 
-<div style={{border:"2px solid black", width:"500px", margin: "0 auto"}}>
+<div className="lg-img" style={{border:"2px solid black", margin: "0 auto"}}>
 ![Transaction detials from Sepolia Lineascan](/img/docs/training/sepolia-lineascan-from-wallet.png)
 </div>
-<div style={{ width:"500px", margin: "0 auto"}}>
+<div className="lg-img" style={{ margin: "0 auto"}}>
 <figcaption>Transaction detials from Sepolia Lineascan</figcaption> 
 </div>
 <br/>
@@ -86,20 +86,20 @@ Once on the Sepolia Linea scan, search for the address (public key) of the accou
 
 You can go directly to [sepolia.etherscan.io](https://sepolia.etherscan.io/) to lookup Sepolia transactions.
 
-<div style={{border:"2px solid black", width:"500px", margin: "0 auto"}}>
+<div className="lg-img" style={{border:"2px solid black", margin: "0 auto"}}>
 ![Transaction detail from Sepolis Lineascan](/img/docs/training/sepolia-etherscan.png)
 </div>
-<div style={{ width:"500px", margin: "0 auto"}}>
+<div className="lg-img" style={{margin: "0 auto"}}>
 <figcaption>Transaction detials from Sepolia Lineascan</figcaption> 
 </div>
 <br/>
 
 Enter your address to find transactions.
 
-<div style={{border:"2px solid black", width:"500px", margin: "0 auto"}}>
+<div className="lg-img" style={{border:"2px solid black", margin: "0 auto"}}>
 ![Transaction details from Sepolia Etherscan](/img/docs/training/sepolia-etherscan-results.png)
 </div>
-<div style={{ width:"500px", margin: "0 auto"}}>
+<div className="lg-img" style={{  margin: "0 auto"}}>
 <figcaption>Transaction details from Sepolia Etherscan</figcaption> 
 </div>
 <br/>

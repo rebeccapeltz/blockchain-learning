@@ -79,11 +79,11 @@ Click the on button for "Show test networks".
 
 Navigate to [Chainlist](https://chainid.network/). Search for **Sepolia**. Click on the `Connect` button for **Linea Sepolia**.
 
-<div style={{border:"2px solid black", width:"500px", margin: "0 auto"}}>
+<div className="lg-img" style={{border:"2px solid black", margin: "0 auto"}}>
 ![Use Chainlist to connect Linea Sepolia network](/img/docs/connect-lsepolia.png)
 </div>
-<div style={{ width:"500px", margin: "0 auto"}}>
-<figcaption>Use Chainlist to connect Lenea Sepolia network</figcaption> 
+<div className="lg-img" style={{margin: "0 auto"}}>
+<figcaption className="lg-imge">Use Chainlist to connect Lenea Sepolia network</figcaption> 
 </div>
 <br/>
 
@@ -91,10 +91,10 @@ Navigate to [Chainlist](https://chainid.network/). Search for **Sepolia**. Click
 
 The first time you connect your wallet you will be asked for some authentication details. Once the wallet is connected, you'll see your public key in the upper right corner. The Connect buttons have changed to `Add Chain`. Click on the `Add Chain` button for **Linea Sepolia** to add this blockchain network to your wallet.
 
-<div style={{border:"2px solid black", width:"500px", margin: "0 auto"}}>
+<div className="lg-img" style={{border:"2px solid black", margin: "0 auto"}}>
 ![Click on add chain](/img/docs/add-chain.png)
 </div>
-<div style={{ width:"500px", margin: "0 auto"}}>
+<div className="lg-img" style={{ margin: "0 auto"}}>
 <figcaption>Use Chainlist to connect Linea Sepolia network</figcaption> 
 </div>
 <br/>

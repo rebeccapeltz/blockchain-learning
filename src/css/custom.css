@@ -39,3 +39,12 @@ figcaption{
   font-size:smaller;
   color: gray;
 }
+
+.img-size {
+  width: 310px;
+}
+@media screen and (min-width: 500px) {
+  .img-size {
+    width: 500px;
+  }
+}
