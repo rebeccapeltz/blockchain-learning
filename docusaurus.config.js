@@ -87,7 +87,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/rebeccapeltz/learning-blockchain",
+            href: "https://github.com/rebeccapeltz/blockchain-learning",
             label: "GitHub",
             position: "right",
           },
