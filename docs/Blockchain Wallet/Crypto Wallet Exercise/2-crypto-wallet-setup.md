@@ -83,7 +83,7 @@ Navigate to [Chainlist](https://chainid.network/). Search for **Sepolia**. Click
 ![Use Chainlist to connect Linea Sepolia network](/img/docs/connect-lsepolia.png)
 </div>
 <div className="lg-img" style={{margin: "0 auto"}}>
-<figcaption className="lg-imge">Use Chainlist to connect Lenea Sepolia network</figcaption> 
+<figcaption className="lg-img">Use Chainlist to connect Lenea Sepolia network</figcaption> 
 </div>
 <br/>
 

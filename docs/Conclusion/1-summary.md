@@ -1,6 +1,6 @@
 # Summary
 
-**Did you complete this in less than 20 minutes?**
+**Did you complete this in less than 30 minutes?**
 
 It's OK if it took longer.  You should now have a MetaMask wallet with Linea Sepolia Ethereum test tokens in it.  If you've installed the wallet on your mobile device as well as Chrome, you should see your coins in both wallets.  
 
@@ -45,6 +45,4 @@ These topics were covered in preparation for the exercise:
     * Chainlink faucets were used to "drip" a small amount of Linea Seplolia cryptocurrency into the wallet
     * Etherscan was used to look up the transaction using the address of the wallet
   
-## What's next
-
-Get a friend to create a wallet and send them some Linea Sepolia cryptocurrency.
+  
