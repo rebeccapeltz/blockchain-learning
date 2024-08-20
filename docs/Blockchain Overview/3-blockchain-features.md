@@ -15,7 +15,7 @@ The features described here are those that are common to all blockchains.
 * Data and the order of the data is verified by consensus mechanisms 
 * Consensus is met by validation of the data by the majority of nodes
 * **Proof of Work** and **Proof of Stake** are the most used consensus mechanaisms
-* Data immutability means that once data is added to the blockchain it cannot be changed
+* Data immutability means that once data is added to a blockchain it cannot be changed
 * Data immutability contributes to security and integrity
 * Since each successive block references the previous block using a cryptographic hash of the transaction, it would be costly to change data and update all successive blocks
 * Data transparency is provided by posting all transaction detail publicly online

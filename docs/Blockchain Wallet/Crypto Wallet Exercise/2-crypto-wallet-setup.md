@@ -11,7 +11,7 @@ Because you can use the **SRP** to derive private keys, you only need to save th
 
 ### MetaMask Accounts and Keys
 
-When you install MetaMask, it will create an account named **Account 1** by default. It is associated with a public key. Remember that a single private key can generate multiple different public keys. **Account 1** will have a public key that you can share. This is used as an address on the blockchain. You can rename **Account 1**, and it won't change the address. You can also add new accounts. Each new account will receive a new public key. All accounts in your wallet will share the same private key.
+When you install MetaMask, it will create an account named **Account 1** by default. It is associated with a public key. Remember that a single private key can generate multiple different public keys. **Account 1** will have a public key that you can share. This is used as an address on a blockchain. You can rename **Account 1**, and it won't change the address. You can also add new accounts. Each new account will receive a new public key. All accounts in your wallet will share the same private key.
 
 When you're learning it's helpful to use training tokens. It makes it more affordable to experiment without the possibility of losing money. You can also experiment with creating, renaming and deleting accounts in the wallet.
 

@@ -1,6 +1,6 @@
 # Objectives
 
-Creating a crypto wallet and moving test tokens into it is a good way to begin experiencing the blockchain.  This exercise has two parts:
+Creating a crypto wallet and moving test tokens into it is a good way to begin experiencing a blockchain.  This exercise has two parts:
 
 1. Create a wallet
     * Configure the wallet to use test tokens
@@ -18,7 +18,7 @@ There are many crypto wallets available.  Use the [MetaMask wallet](https://supp
 [Chainlist](https://chainid.network/), a tool made available by [Chainlink](https://chain.link/), to **connect** Linea Sepolia, a testnet for Ethereum development, to the wallet. Chainlist provides a list of **RPCs** (Remote Procedure Calls) that connect wallets to Web3 middleware providers.
 
 3. **Chainlink Faucets**  
-[Chainlink Faucets](https://faucets.chain.link/), is another tool made available by [Chainlink](https://chain.link/) to **send** test tokens to the wallet. Chainlink is a decentralized oracle network.  Oracle networks create a bridge between the blockchain world and the rest of the world. 
+[Chainlink Faucets](https://faucets.chain.link/), is another tool made available by [Chainlink](https://chain.link/) to **send** test tokens to the wallet. Chainlink is a decentralized oracle network.  Oracle networks create a bridge between a blockchain world and the rest of the world. 
 
 When the transaction is complete and settled you can look up the information about it on [the Sepolia etherscan](https://sepolia.etherscan.io).
 

@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/crypto-wallet-blockchain.svg').default,
     description: (
       <>
-        Find out the benefits of using a crypto wallet to interact with the blockchain.
+        Find out the benefits of using a crypto wallet to interact with a blockchain.
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/transaction-blockchain.svg').default,
     description: (
       <>
-        Examine the flow of transactions on the blockchain.
+        Examine the flow of transactions on a blockchain.
       </>
     ),
   },

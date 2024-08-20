@@ -12,7 +12,7 @@ These topics were covered in preparation for the exercise:
     * Blockchain technology was conceived in the early 1990s
     * It was intended for timestamping media
     * It emphasized a decentralized system and data immutability
-    * Bitcoin was the first implemention of the blockchain technology
+    * Bitcoin was the first implemention of a blockchain technology
     * Bitcoin was described in a paper by Satoshi Nakamoto in 2009
 * Blockchain data structure
     * Blockchain was compared to a linked list datat structure
@@ -25,7 +25,7 @@ These topics were covered in preparation for the exercise:
     * The chain is made up of blocks containing lists of transactions
     * Blockchain can be described as a decentralized, immutable ledger of transactions
     * Blockchain relies on consensus mechanisms to validate data rather than trusting a central authority
-    * Transparency is a hallmark of the blockchain and all transactions be viewed online by anyone
+    * Transparency is a hallmark of a blockchain and all transactions be viewed online by anyone
     * Bitcoin and Ethereum are two popular blockchains
     * Bitcoin uses Proof of Work and Ethereum uses Proof of Stake for achieving consensus
     * In addition to being a crytocurrency Ethereum is a computing network that processes code in dApps and smart contracts

@@ -16,11 +16,11 @@ Learn more about the [details and math](https://learnmeabitcoin.com/beginners/gu
 
 ## Digitally Signing a Transaction
 
-Consider a transaction where currency is sent from one user to another through the blockchain: 
+Consider a transaction where currency is sent from one user to another through a blockchain: 
 
 1. The sender creates a hash of the **original data**. This data would contain instructions for tranferring currency.  A hash is a oneway encryption that serves as a fingerprint for the data.
 1. The sender encyrpts the hash with their private key and this creates the **digital signature**.
-2. The **original data** and the **digital signature** are sent to the benficiary.  On the blockchain, this means the message is addressed using the public key of the benficiary.
+2. The **original data** and the **digital signature** are sent to the benficiary.  On a blockchain, this means the message is addressed using the public key of the benficiary.
 3.  The beneficiary calculates the hash of the data received using the same function as the sender.
 4.  Next, the beneficiary uses the senders public key to decrypt the digital signature.  In decrypting the digital signature, the receiver has access to the **original data** hash.
 5. The receiver compares the hash of the original data extracted from the digital signature to the hash created in step 4 above.  
